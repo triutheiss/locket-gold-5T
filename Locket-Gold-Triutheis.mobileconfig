@@ -66,6 +66,8 @@
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>DNS Locket Gold</string>
+            <key>PayloadOrganization</key>
+            <string>Đã Xác Minh</string>
 			<key>PayloadIdentifier</key>
 			<string>com.locketgoldpro.dns</string>
 			<key>PayloadType</key>
